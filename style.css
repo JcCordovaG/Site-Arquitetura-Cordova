@@ -6,7 +6,7 @@ body {
   }
 
   header {
-    background-color: #000000;
+    background-color: #479BBA;
     color: white;
     padding: 1rem;
     text-align: center;
@@ -136,9 +136,11 @@ ul li a:hover::after {
     flex: 0 0 65%;
     background: #fafafa;
     padding: 1rem;
-    border: 1px solid #ddd;
+    border: 1px solid #000000;
+    border-radius: 30px ;
     box-shadow: 0 0 5px rgba(0,0,0,0.5);
-    text-align: justify; /* Deixa o texto justificado */
+    text-align: justify; /* Deixa o texto justificado *
+    b
   }
   
   
